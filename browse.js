@@ -1,4 +1,3 @@
-//Here goes all our javascript :)
 function searchFunction(event) {
     var x = event.keyCode;
     if (x == 13) {
@@ -32,4 +31,4 @@ function searchFunction(event) {
     } else {}
 
 }
-;
+;//Here goes all our javascript :)
